@@ -1,0 +1,2 @@
+export const ACTION = 'ACTION'
+export const ACTION_WITH_WINDOW = 'ACTION_WITH_WINDOW';

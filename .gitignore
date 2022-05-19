@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# Exclude IDE project folders
+.idea
+*.iml
